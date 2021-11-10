@@ -1,0 +1,64 @@
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.501));
+    background: url(../block-BHaabu/istockphoto-1093110112-612x612.jpg);
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.box-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 0px 64px;
+}
+
+.box-1{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(242,72,72);
+}
+
+h2 {
+    padding: 64px 0;
+}
+.box-2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(242,72,72);
+    /* background-image: linear-gradient (rgb(242,72,72), rgb(36,39,31)); */
+    background-image: linear-gradient( to left, rgb(242,72,72), black);
+}
+
+.box-3{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(242,72,72);
+    background-image: radial-gradient(rgb(242,72,72), black);
+}
+
+.box-4{ 
+    width: 100%;
+    height: 400px;
+    background: linear-gradient(to bottom right, rgb(246,249,252,0.5), rgb(196,61,28,0.5)), url(../block-BHaabu/images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+    border: 5px solid;
+    border-radius: 10px;
+    
+    
+}
+
+.box-4 img{
+    width: 100%;
+
+}
+
+.box-container-2{
+    padding: 0px 64px;
+    margin-bottom: 50px;
+
+}
