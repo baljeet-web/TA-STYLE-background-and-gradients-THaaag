@@ -1,0 +1,148 @@
+body{
+    background-image:linear-gradient(to bottom,rgb(32,34,47) 7%, rgb(29, 32, 41) 70%);
+    background-repeat: no-repeat;
+    /* height: 100vh; */
+}
+
+.container{
+    padding: 10px 50px;
+}
+
+.h1{
+    display: flex;
+    justify-content: space-between;
+    line-height: 0px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.dark{
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.dark button{
+    height: 15px;
+    margin-left: 10px;
+    width: 40px;
+    border-radius: 10px;
+    background-color: rgb(73,187,171);
+
+}
+
+.gola{
+    height: 9px;
+    width: 9px;
+    background-color: rgb(37,40,70);
+    border-radius: 50%;
+    margin-left: -4px;
+    
+}
+
+.social p{
+    color: rgb(105,112,145);
+}
+
+.row-1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.row{
+    /* border: 1px solid; */
+    background-color: rgb(37,43,67);
+    height: 200px;
+    width: 250px;
+    /* padding: 32px */
+    text-align: center;
+    line-height: 1.5;
+}
+
+.row-2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.row-3{
+    display: flex;
+    justify-content: space-between;}
+
+.rows{
+   
+        /* border: 1px solid; */
+        background-color: rgb(37,43,67);
+        height: 120px;
+        width: 250px;
+        /* padding: 32px */
+        text-align: center;
+        line-height: 0.1;
+}
+
+h2{
+    color: white;
+}
+
+.column-1{
+    border-top:2px solid rgb(23,143,245);
+}
+    
+.column-2{
+    border-top:2px solid rgb(26,163,241);
+}
+
+
+.linears{
+    background-image: linear-gradient(red, orange);
+}
+
+.column-3{
+    border-top: 2px solid orange;
+    
+}
+.column-4{
+    border-top:2px solid rgb(196,54,42);
+}
+
+.flex-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    align-items: center;
+}
+
+.flex-2{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    align-items: center;
+    
+}
+
+.blue{
+    color: rgb(33,160,241);
+}
+
+.linear{
+    background-image: linear-gradient(pink, orange);
+}
+
+.red{
+    color: red;
+}
+
+p{
+    color: rgb(133,142,175);
+}
+
+.white{
+    color: white;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+.green{
+    color:rgb(32,93,87) ;
+}
